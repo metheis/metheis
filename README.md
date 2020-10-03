@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Mark 👋🏽
+
+<img src="https://raw.githubusercontent.com/metheis/metheis/main/metheis-github-banner.png" alt="image of Mark and his interests: mechanical and electrical engineering">
+
+I'm an undergraduate engineer at the University of California specailizing in Mechanical and Electrical areas. Feel free to poke around my Github and let me know if a repo interests you and want to learn more 🙂.
+
+### <a href="https://mark.theis.site">My Personal Site</a>
 
 <!--
 **metheis/metheis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

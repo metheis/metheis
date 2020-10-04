@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/metheis/metheis/main/metheis-github-banner_small.png" alt="image of Mark and his interests: mechanical and electrical engineering">
 
-I'm an undergraduate engineer at the University of California specializing in mechanical and electrical subject matter. Feel free to poke around my Github and let me know if a repo interests you and want to learn more 🙂.
+I'm an undergraduate engineer at the University of California specializing in mechanical and electrical subject matter. Feel free to poke around my projects and let me know if you would like to learn more about any of them .
 
 ### <a href="https://mark.theis.site">My Personal Site</a>
 

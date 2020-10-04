@@ -11,7 +11,7 @@ I'm an undergraduate engineer at the University of California specializing in me
 - 💬 Ask me about ... well, anything! Any question is a good question.
 - 📫 How to reach me: ... email listed on my profile.
 - 😄 Pronouns: He/Him/his
-- ⚡ Fun fact: Nearly [75% of of all aluminum ever produced is still in use today](https://www.aluminum.org/industries/production/recycling) due to recycling.
+- ⚡ Fun fact: Nearly [75% of all aluminum ever produced is still in use today](https://www.aluminum.org/industries/production/recycling) due to recycling.
 
 ### <a href="https://mark.theis.site">My Personal Site</a>
 

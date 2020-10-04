@@ -7,8 +7,8 @@ I'm an undergraduate engineer at the University of California specializing in me
 
 - 🔭 I’m currently working on ... writing a book about Internet protocols.
 - 🌱 I’m currently learning about ... analog integrated circuits, digital integrated circuits, signals and systems, and statics.
-- 🗻 My current outdoor goal is to .. hike the [Rim of the Bay](https://www.google.com/maps/d/edit?mid=1rCZizmmr_k4jFwdg4Z2MWCQBQedoRsed&usp=sharing)
-- 💬 Ask me about ... well, anything! Any questions is a good question.
+- 🗻 My current outdoor goal is to ... hike the [Rim of the Bay](https://www.google.com/maps/d/edit?mid=1rCZizmmr_k4jFwdg4Z2MWCQBQedoRsed&usp=sharing)
+- 💬 Ask me about ... well, anything! Any question is a good question.
 - 📫 How to reach me: ... email listed on my profile.
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun fact: 
